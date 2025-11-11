@@ -32,3 +32,4 @@ class Project{
 //gues the number user do and i have to generate the number from random and till we do when user got the real number.
 //
 //mini project for the learning of java and all make sure the program is working smoothly and make sure
+//git
